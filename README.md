@@ -4,7 +4,6 @@ Komal Kumari
 「 B.Tech EE @ IIT Indore 」
 
 � Web Development and Competitive Programming.
-📫Connect with me
 
 Languages and Tools:
 Frontend
