@@ -5,7 +5,7 @@ Komal Kumari
 
 ## Connect with me
 
-| <img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" width="150"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkXmfBdk6LaaNBLBMOP_rHm_iyauDLDDZFw&usqp=CAU" width="150"> |
+| <img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-512.png" width="150"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkXmfBdk6LaaNBLBMOP_rHm_iyauDLDDZFw&usqp=CAU" width="150">(https://www.linkedin.com/in/komal-kumari13a9791bb0/) |
 
 
 <!--  -[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToywvbbhtpmy65PjfFqYFOOcGKDe1lNkNCjKgki_J8qHIytBFnYAKmmEbApQGQ5j_hBQk&usqp=CAU)](https://www.linkedin.com/in/komal-kumari13a9791bb0/)
