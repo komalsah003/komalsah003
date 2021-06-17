@@ -2,6 +2,9 @@
 Komal Kumari
 
 「 B.Tech EE @ IIT Indore 」
+ - [linkdin](https://www.linkedin.com/in/komal-kumari13a9791bb0/)
+ - [Gmail](komalsah342@gmail.com)
+## Connect with me
 
 � Web Development and Competitive Programming.
 
