@@ -1,4 +1,21 @@
 ### Hi there 👋
+Komal Kumari
+
+「 B.Tech EE @ IIT Indore 」
+
+� Web Development and Competitive Programming.
+📫Connect with me
+
+Languages and Tools:
+Frontend
+html5 css3 javascript bootstrap react
+
+Backend
+nodejs express python 
+
+Database
+mysql mongodb
+
 
 <!--
 **komalsah003/komalsah003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
