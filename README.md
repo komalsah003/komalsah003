@@ -38,6 +38,7 @@ mysql, mongodb
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=komalsah003)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=komalsah003&repo=Bank)
 <!--
 **komalsah003/komalsah003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
