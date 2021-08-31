@@ -37,7 +37,10 @@ mysql, mongodb
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" alt="mongodb" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width:100%;"> </a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=komalsah003)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=radical)
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=komalsah003) -->
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=komalsah003&repo=Portfolio) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsah003&layout=compact)](https://determined-shockley-5a064d.netlify.app/)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://determined-shockley-5a064d.netlify.app/) -->
