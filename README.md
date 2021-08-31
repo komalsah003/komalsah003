@@ -2,7 +2,7 @@
 Komal Kumari
 
 「 B.Tech EE @ IIT Indore 」
-
+![counter](https://[YourEndpoint].m.pipedream.net)
  ## Connect with me
 
 <a href="https://www.linkedin.com/in/komal-kumari13a9791bb0/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/ecab6f14492f8194cc1142bc32c29eacfabbec0a85198856e35086557a20b671/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6c696e6b6564496e2f6c696e6b6564496e5f504e4733382e706e67" alt="skj" height="50" width="50" data-canonical-src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" style="max-width:100%;"></a>
@@ -39,23 +39,8 @@ mysql, mongodb
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=radical)
-![counter](https://[YourEndpoint].m.pipedream.net)
+
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=komalsah003) -->
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=komalsah003&repo=Portfolio) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsah003&layout=compact)](https://determined-shockley-5a064d.netlify.app/)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://determined-shockley-5a064d.netlify.app/) -->
-
-<!--
-**komalsah003/komalsah003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
