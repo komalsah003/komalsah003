@@ -2,7 +2,7 @@
 Komal Kumari
 
 「 B.Tech EE @ IIT Indore 」
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://[https://pipedream.com/workflows].m.pipedream.net)
  ## Connect with me
 
 <a href="https://www.linkedin.com/in/komal-kumari13a9791bb0/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/ecab6f14492f8194cc1142bc32c29eacfabbec0a85198856e35086557a20b671/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6c696e6b6564496e2f6c696e6b6564496e5f504e4733382e706e67" alt="skj" height="50" width="50" data-canonical-src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" style="max-width:100%;"></a>
