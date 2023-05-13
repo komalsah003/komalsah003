@@ -13,7 +13,7 @@ Komal Kumari
 ### Languages and Tools:
 
  - Frontend:
-html5, css3, javascript, bootstrap, react
+
 <p align="center">
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://camo.githubusercontent.com/bea3c45894fe8d810cfef5e0ba759d28033e0a534186ea1c1b71c70e1a57554f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d69636f6e2e737667" alt="html5" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="max-width:100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://camo.githubusercontent.com/6fc2d2fd7489311c12203893aea5125e3ab8a3ee9c09edba4cad7e9a5b5690f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e65746c6966796170705f77617465726373732f6e65746c6966796170705f77617465726373732d617232312e737667" alt="css3" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" style="max-width:100%;"> </a>
@@ -23,7 +23,7 @@ html5, css3, javascript, bootstrap, react
 </p>
 
  - Backend :
-nodejs, express, python 
+
 <p align="center">
 <a href="https://nodejs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667" alt="nodejs" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="max-width:100%;"> </a>
 <a href="https://expressjs.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" alt="express" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width:100%;"> </a>
@@ -31,7 +31,7 @@ nodejs, express, python
 </p>
 
  - Database :
-mysql, mongodb
+
 <p align="center">
 <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ff6f52ffdfce44372e3be3eda37d354ce2a15874e9b15996c2263172683f7bcd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" alt="mysql" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="max-width:100%;"> </a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" alt="mongodb" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width:100%;"> </a>
