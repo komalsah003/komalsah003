@@ -15,6 +15,10 @@
 <a href="https://www.linkedin.com/in/komal-kumari13a9791bb0/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/ecab6f14492f8194cc1142bc32c29eacfabbec0a85198856e35086557a20b671/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6c696e6b6564496e2f6c696e6b6564496e5f504e4733382e706e67" alt="skj" height="50" width="50" data-canonical-src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" style="max-width:100%;"></a>
 <a href="mailto:komalsah342@gmail.com"><img align="center" src="https://camo.githubusercontent.com/e701334c5cc23eaaa16485bf016dfaadd3003ac5be80fd2ab38280b45cd41e51/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f676d61696c5f6c6f676f2f676d61696c5f6c6f676f5f504e47382e706e67" alt="skj" height="40" width="40" data-canonical-src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG8.png" style="max-width:100%;"></a>
 
+
+<h3 dir="auto"><a id="user-content---web-development-and-competitive-programming-" class="anchor" aria-hidden="true" href="#--web-development-and-competitive-programming-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <b> Web Development and Competitive Programming. </b></h3>
+
+
  ## Web Development and Competitive Programming.
 
 ### Languages and Tools:
