@@ -64,4 +64,4 @@
 <p dir="auto" align="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003" /></a>
 
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /></a></p>
+<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /></a></p>
