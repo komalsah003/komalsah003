@@ -53,7 +53,10 @@
 <code><a href="https://www.firebase.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a></code>
 </p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0722d4413d2c4939aea29c7e0306113bed6ce1f332aa576e2b57c2ef4dbca969/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d616e2d6a61697377616c267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/0722d4413d2c4939aea29c7e0306113bed6ce1f332aa576e2b57c2ef4dbca969/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d616e2d6a61697377616c267468656d653d746f6b796f6e69676874" alt="kk" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=komalsah003&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsah003&" alt="komalsah003" /></p>
+
+<!-- <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0722d4413d2c4939aea29c7e0306113bed6ce1f332aa576e2b57c2ef4dbca969/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d616e2d6a61697377616c267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/0722d4413d2c4939aea29c7e0306113bed6ce1f332aa576e2b57c2ef4dbca969/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d616e2d6a61697377616c267468656d653d746f6b796f6e69676874" alt="kk" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=komalsah003&amp;theme=tokyonight" style="max-width: 100%;"></a></p> -->
 
 
 
@@ -70,5 +73,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsah003&" alt="komalsah003" /></p>
