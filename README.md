@@ -9,7 +9,6 @@
 ### Software Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsah003&label=Profile%20views&color=0e75b6&style=flat" alt="komalsah003" /> </p>
 
-<!-- ![counter](https://[https://pipedream.com/workflows].m.pipedream.net) -->
 
 <details open="true">
 <summary><span><b><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>Connect with me</b></span></summary>
@@ -56,11 +55,6 @@
 
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0722d4413d2c4939aea29c7e0306113bed6ce1f332aa576e2b57c2ef4dbca969/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d616e2d6a61697377616c267468656d653d746f6b796f6e69676874"><img src="https://github-readme-streak-stats.herokuapp.com/?user=komalsah003&" alt="komalsah003" style="max-width: 100%;"/></a></p>
 
-<!-- <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0722d4413d2c4939aea29c7e0306113bed6ce1f332aa576e2b57c2ef4dbca969/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d616e2d6a61697377616c267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/0722d4413d2c4939aea29c7e0306113bed6ce1f332aa576e2b57c2ef4dbca969/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d616e2d6a61697377616c267468656d653d746f6b796f6e69676874" alt="kk" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=komalsah003&amp;theme=tokyonight" style="max-width: 100%;"></a></p> -->
-
-
-
-
 <!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26d4e63a28c3ea84617c323687461a12d70a938801a51313cd8c32ce25ca3e81/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53756d616e2d4a61697377616c2673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/26d4e63a28c3ea84617c323687461a12d70a938801a51313cd8c32ce25ca3e81/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53756d616e2d4a61697377616c2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Komal's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=komalsah003&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a> <span> _ </span>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/118cc0cc092d3210f19f5d57ec4719f04bccac0af06ec331f430d86858ccea7a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53756d616e2d4a61697377616c266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/118cc0cc092d3210f19f5d57ec4719f04bccac0af06ec331f430d86858ccea7a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53756d616e2d4a61697377616c266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsah003&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
 
@@ -71,4 +65,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /></p>
