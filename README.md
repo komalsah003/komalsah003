@@ -61,8 +61,7 @@
 
 <p dir="auto"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/d48f1cc77fabee608e21dd61101eccf0b629439ef834d4214848c10af4bf8cef/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d53756d616e2d6a61697377616c267468656d653d6f6e656461726b" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=komalsah003&amp;theme=onedark" style="max-width: 100%;"></a></p>
  -->
+<p dir="auto" align="center">
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003" /></a>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /></p>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /></a></p>
