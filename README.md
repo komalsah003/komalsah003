@@ -1,7 +1,11 @@
  ### Hi there 👋
-Komal Kumari
+This is Komal Kumari
+<p align="center">「 B.Tech EE @ IIT Indore 」</p>
+Software Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsah003&label=Profile%20views&color=0e75b6&style=flat" alt="komalsah003" /> </p>
 
-「 B.Tech EE @ IIT Indore 」
+
+
 <!-- ![counter](https://[https://pipedream.com/workflows].m.pipedream.net) -->
  ## Connect with me
 
