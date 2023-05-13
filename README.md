@@ -1,5 +1,9 @@
  ### Hi there!👋 This is Komal Kumari
-<p align="center">「 B.Tech EE @ IIT Indore 」</p>
+<p align="center" dir="auto">
+  <samp>
+    「 B.Tech EE @  <b>IIT Indore</b> 」<br>
+  </samp>
+</p>
 
 
 ### Software Developer
