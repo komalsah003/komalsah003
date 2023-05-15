@@ -7,8 +7,11 @@
 
 
 ### Software Developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsah003&label=Profile%20views&color=0e75b6&style=flat" alt="komalsah003" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsah003&label=Profile%20views&color=0e75b6&style=flat" alt="komalsah003" /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <details open="true">
 <summary><span><b><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>Connect with me</b></span></summary>
