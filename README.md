@@ -75,8 +75,8 @@
 <!-- <p dir="auto" align="center"> -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=komalsah003&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p dir="auto" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003"</p>
+<!-- <p dir="auto" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003"</p> -->
 
 [![Komal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/komalsah003/github-readme-stats#gh-dark-mode-only)
 
