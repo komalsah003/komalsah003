@@ -35,11 +35,10 @@
 " style="max-width: 100%;"> </a></code>
  </p>
  -->
- <h3 dir="auto"><a id="user-content-programming" class="anchor" aria-hidden="true" href="#programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Programming</h3>
+ <h3 dir="auto"><a id="user-content-programming" class="anchor" aria-hidden="true" href="#programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Languages</h3>
  
 <p align="center" dir="auto">
-<code><a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a></code>
-
+<!-- <code><a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a></code> -->
 <code><a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a></code>
  </p>
 
@@ -80,7 +79,11 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/118cc0cc092d3210f19f5d57ec4719f04bccac0af06ec331f430d86858ccea7a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53756d616e2d4a61697377616c266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874"><imgsrc="https://camo.githubusercontent.com/118cc0cc092d3210f19f5d57ec4719f04bccac0af06ec331f430d86858ccea7a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53756d616e2d4a61697377616c266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsah003&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
 <p dir="auto"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/d48f1cc77fabee608e21dd61101eccf0b629439ef834d4214848c10af4bf8cef/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d53756d616e2d6a61697377616c267468656d653d6f6e656461726b" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=komalsah003&amp;theme=onedark" style="max-width: 100%;"></a></p>
  -->
-<!-- <p dir="auto" align="center"> -->
+ 
+ 
+ 
+<!-- <p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb07ce2b0af1d4c6b75c12e0da480ea62079b9d3b44c9b16a42f0ce23758cb38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61646974693430342673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/cb07ce2b0af1d4c6b75c12e0da480ea62079b9d3b44c9b16a42f0ce23758cb38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61646974693430342673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="aditi404" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aditi404&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a></p> -->
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=komalsah003&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- <p dir="auto" align="center">
