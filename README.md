@@ -82,16 +82,14 @@
  
  
  
-<!-- <p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb07ce2b0af1d4c6b75c12e0da480ea62079b9d3b44c9b16a42f0ce23758cb38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61646974693430342673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/cb07ce2b0af1d4c6b75c12e0da480ea62079b9d3b44c9b16a42f0ce23758cb38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61646974693430342673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="aditi404" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aditi404&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a></p> -->
+<p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb07ce2b0af1d4c6b75c12e0da480ea62079b9d3b44c9b16a42f0ce23758cb38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61646974693430342673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/cb07ce2b0af1d4c6b75c12e0da480ea62079b9d3b44c9b16a42f0ce23758cb38/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61646974693430342673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="komalsah003" data-canonical-src="https://github-readme-stats.vercel.app/api?username=komalsah003&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a></p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=komalsah003&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- <p dir="auto" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&locale=en" alt="komalsah003"</p> -->
 
-[![Komal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/komalsah003/github-readme-stats#gh-dark-mode-only)
+<!-- [![Komal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/komalsah003/github-readme-stats#gh-dark-mode-only)
 
 <p align="center">
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsah003)](https://github.com/komalsah003/github-readme-stats) -->
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" />
-</p> 
+</p>  -->
+
