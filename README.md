@@ -72,17 +72,12 @@
 <code><a href="https://www.firebase.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a></code>
 </p>
 
-<p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=komalsah003&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- </p>
- 
- 
-<p align="center">
-[![Komal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/komalsah003/github-readme-stats#gh-dark-mode-only)</p>
 
-<p align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=komalsah003&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
- 
+[![Komal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/komalsah003/github-readme-stats#gh-dark-mode-only)
+
+<p >
  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsah003&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
  
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /> -->
