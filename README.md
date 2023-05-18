@@ -77,8 +77,6 @@
  
 [![Komal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=komalsah003&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/komalsah003/github-readme-stats#gh-dark-mode-only)
 
-<p >
- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsah003&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
- 
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&show_icons=true&locale=en&layout=compact" alt="komalsah003" /> -->
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalsah003&amp;theme=dracula&amp;title_color=000000&amp;text_color=000000&amp;bg_color=ffffff&amp;hide_border=true&amp;layout=compact" alt="komalsah003 stats card">
 </p> 
